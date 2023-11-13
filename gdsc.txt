@@ -1,4 +1,4 @@
-Name: Edu
+Name: raoul
 Occupation: Undergraduate Student in Mathematics and Computer Science at Babes-Bolyai University
-Hobby: Gaming/Coding
-Dislike: F-16
+Hobby: yes
+Dislike: french
